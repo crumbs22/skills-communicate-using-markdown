@@ -10,3 +10,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] ai 수업
+- [ ] 파이썬
+- [ ] 정처기
